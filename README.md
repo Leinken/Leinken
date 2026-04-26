@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leinken
 - 👀 I’m interested in ... SQL and Python
-- 🌱 I’m currently learning ... SSIS, SSRS 
-- 💞️ I’m looking to collaborate on ... Powerbi projects 
+- 🌱 I’m currently learning ... DBT, Airflow
+- 💞️ I’m looking to collaborate on ... AWS projects 
 - 📫 How to reach me ...www.linkedin.com/in/Kennedy-Mbuthi
 
 <!---
