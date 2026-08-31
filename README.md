@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leinken
+- 👋 Hi, welcome to my page
 - 👀 I’m interested in ... SQL and Python
 - 🌱 I’m currently learning ... DBT, Airflow
 - 💞️ I’m looking to collaborate on ... AWS projects 
