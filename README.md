@@ -68,7 +68,7 @@ My GitHub focuses on practical, end-to-end Data Engineering projects, including:
 
 🎯 My Goal
 
-I’m continuously expanding my Data Engineering skill set with a focus on building production-ready pipelines, cloud-native data platforms, distributed data processing systems, and real-time data solutions.
+I’m continuously expanding my Data Engineering skill set, focusing on building production-ready pipelines, cloud-native data platforms, distributed data processing systems, and real-time data solutions.
 
 I believe the best way to learn Data Engineering is by building — so this repository showcases hands-on projects, experiments, and solutions using modern data technologies.
 
