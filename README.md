@@ -1,5 +1,7 @@
-Hi there! It's Kennedy!
-I’m a Data Engineer with a strong background in Data Analytics, Business Intelligence, SQL, and data warehousing. 
+Hi, I'm Kennedy Mbuthi 👋
+
+
+Data Engineer with a strong background in Data Analytics, Business Intelligence, SQL, and data warehousing. 
 I enjoy building scalable data solutions that transform raw data into reliable, actionable datasets for analytics, reporting, and AI/ML.
 
 🔧 What I Work With
